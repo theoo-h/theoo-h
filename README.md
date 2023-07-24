@@ -1,8 +1,9 @@
-## Hello, im TheoDev
+## Hi, im TheoDev!
 
 - 👋 || Im a dumb coder and composer
 - 💻 || Im learning about Haxe, Python
 - 👀 || Also, im trying to learn Java
+- 🎨 || Spanish is my Native lenguage
 - 🎮 || You can find me on discord [here!](https://discord.gg/XUPes5Aap3)
 - 🎞  || Ask me what ever you want!
 
