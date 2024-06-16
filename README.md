@@ -6,7 +6,7 @@
 
 > Feel free to contact me on any of my social networks, as long as I'm not busy I'll respond quickly.
 
-> - [ ] I do NOT join your fnf mod, i can help you with bugs or code snippets, but no, do not ask please.
+> I do NOT join your fnf mod, i can help you with bugs or code snippets, but no, do not ask please.
 
 ### Currently Learning
 | Lenguage | Progress |
