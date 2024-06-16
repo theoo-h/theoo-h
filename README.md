@@ -8,6 +8,24 @@
 
 > I do NOT join your fnf mod, i can help you with bugs or code snippets, but no, do not ask please.
 
+### FNF Section
+> Im worked/currently working in a LOOOT of mods, such like:
+- Funktale: Rebreath
+- Last Night Of Funkin
+- Funkcraft: Mania
+- Hypnos Lullaby
+- Mario Madness: The Lost Level
+- Vs Sonic.exe Revisited
+- FNF: Swag Rhythm
+- FNF: Momazos
+- FNF: Xploshi Atrocities
+- XTale: The Funk Event
+- SrPelo Collection
+- Funkin' Devil
+- Smiling Hog Funkin'
+- FNF: The Stickmin' Collection
+- NMI (REMASTER)
+
 ### Currently Learning
 | Lenguage | Progress |
 | --------------------- | --------------------- |
@@ -15,7 +33,7 @@
 | Python | 70% |
 | Lua | 50% |
 | Javascript | 50% |
-| C++ | 20% |
+| C++ | 10% |
 
 ### Languages that I currently "master"
 <h4>   <a href="https://lua.org"><img title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="48"/>   <a href="https://haxe.org"><img title="Haxe" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" width="48"/>  <a href="https://python.org"><img title="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48"> </h4> 
