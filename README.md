@@ -19,6 +19,7 @@
 
 > Im also working on some other stuff by myself, as:
 - [FunkinModchart'](https://lib.haxe.org/p/funkin-modchart/)
+- [Flixel3DSprites](https://github.com/TheoDevelops/Flixel-3DSprites)
 
 ### Support me !
 - If you wanna hire me for your game or fnf mod, or just wanna support me, here's my ko-fi page: https://ko-fi.com/theodev
