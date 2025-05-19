@@ -1,13 +1,9 @@
-<h1 align="center"> hi im theode </h1>
+hi, im a amateur edm music producer and programmer (haxe, python, newby c++)
 
-> i am a programmer of several high-level languages, and learning some low-level lenguages too.
-
->  currently i'm still learning to program in different languages, and i'm still striving to know more about each one
-
-> Feel free to contact me on any of my social networks, as long as I'm not busy I'll respond quickly.
+feel free to ask me everything about anything here, on my twitter or disc
 
 ### Portafolio
-> Im working (or ive worked) on some fnf mods, such like:
+> im working (or ive worked) on some fnf mods, such like:
 - [Funktale: Rebreath](https://x.com/PapuTeamXD): Director, lead coder, musician.
 - [Funkcraft: Mania](https://x.com/FunkCraftMania): Lead coder.
 - Vs Sonic.exe Revisited (CANCELLED): Ported Too Slow modchart.
