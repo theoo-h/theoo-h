@@ -1,17 +1,14 @@
 hi, im a amateur edm music producer and programmer (haxe, python, newby c++), i also undertand js and lua syntax.
 
-feel free to ask me everything about anything here, on my twitter or disc
+feel free to talk to me or ask me everything about anything, on my twitter or discord
 
 ### portafolio
 > im working (or ive worked) on some fnf mods, such like:
 - [Funktale: Rebreath](https://x.com/PapuTeamXD): Director, lead coder, musician.
 - [Funkcraft: Mania](https://x.com/FunkCraftMania): Lead coder.
-- Vs Sonic.exe Revisited (CANCELLED): Ported Too Slow modchart.
-- [FNF: Xploshi Atrocities](https://x.com/Funkin_Xploshi): Coder.
 - [FNF: The Stickmin' Collection](https://x.com/StickminCoolMod): Coder.
-- [Gorefield (V2](https://x.com/GorefieldMod): Coder, Modcharting.
+- [Gorefield (V3](https://x.com/GorefieldMod): Coder, modcharting.
 - 17Undertoaderos: Lead coder.
-- NMI.... nothing
 
 > im also working on some personal projects and smth, some of them:
 - [FunkinModchart'](https://lib.haxe.org/p/funkin-modchart/)
