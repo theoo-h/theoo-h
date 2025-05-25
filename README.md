@@ -6,7 +6,7 @@ feel free to talk to me or ask me everything about anything, on my twitter or di
 > im working (or ive worked) on some fnf mods, such like:
 - [Funktale: Rebreath](https://x.com/PapuTeamXD): Director, lead coder, musician.
 - [Funkcraft: Mania](https://x.com/FunkCraftMania): Lead coder.
-- [FNF: The Stickmin' Collection](https://x.com/StickminCoolMod): Coder.
+- [Friday Night Flashing](https://x.com/CrewFrivGames?t=TEJxjy0vS5q4Pn5q20NuWA&s=09): Coder.
 - [Gorefield (V3)](https://x.com/GorefieldMod): Coder, modcharting.
 - [17Undertoaderos](https://x.com/Undertoaderos?t=l4mEqbajLxe-P6y_zxdBlA&s=09): Lead coder.
 
