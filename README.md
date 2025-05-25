@@ -7,7 +7,7 @@ feel free to talk to me or ask me everything about anything, on my twitter or di
 - [Funktale: Rebreath](https://x.com/PapuTeamXD): Director, lead coder, musician.
 - [Funkcraft: Mania](https://x.com/FunkCraftMania): Lead coder.
 - [FNF: The Stickmin' Collection](https://x.com/StickminCoolMod): Coder.
-- [Gorefield (V3](https://x.com/GorefieldMod): Coder, modcharting.
+- [Gorefield (V3)](https://x.com/GorefieldMod): Coder, modcharting.
 - 17Undertoaderos: Lead coder.
 
 > im also working on some personal projects and smth, some of them:
