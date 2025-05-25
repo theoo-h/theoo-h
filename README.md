@@ -8,7 +8,7 @@ feel free to talk to me or ask me everything about anything, on my twitter or di
 - [Funkcraft: Mania](https://x.com/FunkCraftMania): Lead coder.
 - [FNF: The Stickmin' Collection](https://x.com/StickminCoolMod): Coder.
 - [Gorefield (V3)](https://x.com/GorefieldMod): Coder, modcharting.
-- 17Undertoaderos: Lead coder.
+- [17Undertoaderos](https://x.com/Undertoaderos?t=l4mEqbajLxe-P6y_zxdBlA&s=09): Lead coder.
 
 > im also working on some personal projects and smth, some of them:
 - [FunkinModchart'](https://lib.haxe.org/p/funkin-modchart/)
