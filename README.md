@@ -3,14 +3,14 @@ hi, im a amateur edm music producer and programmer (haxe, python, newby c++), i 
 feel free to talk to me or ask me everything about anything, on my twitter or discord
 
 ### portafolio
-> im working (or ive worked) on some fnf mods, such like:
+#### im working (or ive worked) on some fnf mods, such like:
 - [Funktale: Rebreath](https://x.com/PapuTeamXD): Director, lead coder, musician.
 - [Funkcraft: Mania](https://x.com/FunkCraftMania): Lead coder.
 - [Friday Night Flashing](https://x.com/CrewFrivGames?t=TEJxjy0vS5q4Pn5q20NuWA&s=09): Coder.
 - [Gorefield (V3)](https://x.com/GorefieldMod): Coder, modcharting.
 - [17Undertoaderos](https://x.com/Undertoaderos?t=l4mEqbajLxe-P6y_zxdBlA&s=09): Lead coder.
 
-> im also working on some personal projects and smth, some of them:
+#### im also working on some persona projects, some of them:
 - [FunkinModchart'](https://lib.haxe.org/p/funkin-modchart/)
 - [Flixel3DSprites](https://github.com/TheoDevelops/Flixel-3DSprites)
 
