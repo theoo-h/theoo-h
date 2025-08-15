@@ -1,8 +1,12 @@
-helloo :)))
+holam 👀👀
 
-im a amateur musician and programmer
-im learning c, c++ and java, and i can code basic stuff on js and python
+en internet me vas a encontrar como theo/theodev, peero mi nombre real es axel l.r
 
-im from mexico 🇲🇽🇲🇽, my real nombre is axel 👀
+soi musico y programador amateur, osea q como de hobby jajam (aunq pienso dedicarme a uno de los 2)
 
-my ko-fi page: https://ko-fi.com/theo
+sigo aprendiendo haxe, c++ y python
+entiendo un poco de codigo js y html
+
+soy de mexico pero puedo hablar ingles casual con fluidez
+
+si me quieres apoyar o comprarme una comm: https://ko-fi.com/theo
